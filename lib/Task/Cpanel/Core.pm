@@ -212,6 +212,14 @@ get pathname of current working directory
 
 use Cwd;
 
+=item L<Data::MessagePack|Data::MessagePack>
+
+MessagePack serialising/deserialising
+
+=cut
+
+use Data::MessagePack;
+
 =item L<DBD::SQLite2|DBD::SQLite2>
 
 Self Contained RDBMS in a DBI Driver (sqlite 2.x)
