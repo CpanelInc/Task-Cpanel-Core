@@ -844,6 +844,14 @@ Perl extension for AOL Instant Messenger TOC protocol
 
 use Net::AIM;
 
+=item L<NetAddr::IP|NetAddr::IP>
+
+Manages IPv4 and IPv6 addresses and subnets
+
+=cut
+
+use NetAddr::IP;
+
 =item L<Net::DAV::Server|Net::DAV::Server>
 
 Provide a DAV Server
