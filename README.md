@@ -38,22 +38,6 @@ access to Wietse Venema's TCP Wrappers library
 
 BSD process resource limit and priority functions
 
-- [Bundle::CPAN](http://search.cpan.org/perldoc?Bundle::CPAN)
-
-Bundle to optimize the behaviour of CPAN.pm
-
-- [Bundle::DBD::Pg](http://search.cpan.org/perldoc?Bundle::DBD::Pg)
-
-A bundle to install all DBD::Pg related modules
-
-- [Bundle::DBD::mysql](http://search.cpan.org/perldoc?Bundle::DBD::mysql)
-
-A bundle to install Perl drivers for MySQL
-
-- [Bundle::Interchange](http://search.cpan.org/perldoc?Bundle::Interchange)
-
-A bundle of the modules nice to have for Interchange 5.
-
 - [Business::OnlinePayment::AuthorizeNet](http://search.cpan.org/perldoc?Business::OnlinePayment::AuthorizeNet)
 
 AuthorizeNet backend for Business::OnlinePayment
@@ -121,10 +105,6 @@ A curses based OO user interface framework
 - [Cwd](http://search.cpan.org/perldoc?Cwd)
 
 get pathname of current working directory
-
-- [DBD::Pg](http://search.cpan.org/perldoc?DBD::Pg)
-
-PostgreSQL database driver for the DBI module
 
 - [DBD::SQLite2](http://search.cpan.org/perldoc?DBD::SQLite2)
 
@@ -589,6 +569,10 @@ Template Toolkit Processing System
 - [Text::CSV](http://search.cpan.org/perldoc?Text::CSV)
 
 comma-separated values manipulator (using XS or PurePerl)
+
+- [Text::Query](http://search.cpan.org/perldoc?Text::Query)
+
+Query processing framework
 
 - [Tie::DBI](http://search.cpan.org/perldoc?Tie::DBI)
 

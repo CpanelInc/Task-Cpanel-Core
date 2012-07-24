@@ -76,38 +76,6 @@ BSD process resource limit and priority functions
 
 use BSD::Resource;
 
-=item L<Bundle::CPAN|Bundle::CPAN>
-
-Bundle to optimize the behaviour of CPAN.pm
-
-=cut
-
-use Bundle::CPAN;
-
-=item L<Bundle::DBD::Pg|Bundle::DBD::Pg>
-
-A bundle to install all DBD::Pg related modules
-
-=cut
-
-use Bundle::DBD::Pg;
-
-=item L<Bundle::DBD::mysql|Bundle::DBD::mysql>
-
-A bundle to install Perl drivers for MySQL
-
-=cut
-
-use Bundle::DBD::mysql;
-
-=item L<Bundle::Interchange|Bundle::Interchange>
-
-A bundle of the modules nice to have for Interchange 5.
-
-=cut
-
-use Bundle::Interchange;
-
 =item L<Business::OnlinePayment::AuthorizeNet|Business::OnlinePayment::AuthorizeNet>
 
 AuthorizeNet backend for Business::OnlinePayment
@@ -244,13 +212,13 @@ get pathname of current working directory
 
 use Cwd;
 
-=item L<DBD::Pg|DBD::Pg>
+=item L<Data::MessagePack|Data::MessagePack>
 
-PostgreSQL database driver for the DBI module
+MessagePack serialising/deserialising
 
 =cut
 
-use DBD::Pg;
+use Data::MessagePack;
 
 =item L<DBD::SQLite2|DBD::SQLite2>
 
@@ -1179,6 +1147,12 @@ comma-separated values manipulator (using XS or PurePerl)
 =cut
 
 use Text::CSV;
+
+=item L<Text::Query|Text::Query>
+
+Query processing framework
+
+=cut
 
 =item L<Tie::DBI|Tie::DBI>
 
