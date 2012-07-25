@@ -106,6 +106,10 @@ A curses based OO user interface framework
 
 get pathname of current working directory
 
+- [Data::MessagePack](http://search.cpan.org/perldoc?Data::MessagePack)
+
+MessagePack serialising/deserialising
+
 - [DBD::SQLite2](http://search.cpan.org/perldoc?DBD::SQLite2)
 
 Self Contained RDBMS in a DBI Driver (sqlite 2.x)
@@ -417,6 +421,10 @@ Build and install Perl modules
 - [Net::AIM](http://search.cpan.org/perldoc?Net::AIM)
 
 Perl extension for AOL Instant Messenger TOC protocol
+
+- [NetAddr::IP](http://search.cpan.org/perldoc?NetAddr::IP)
+
+Manages IPv4 and IPv6 addresses and subnets
 
 - [Net::DAV::Server](http://search.cpan.org/perldoc?Net::DAV::Server)
 
