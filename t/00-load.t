@@ -6,7 +6,7 @@
 # This is free software; you can redistribute it and/or modify it under the
 # same terms as Perl itself. See L<perlartistic>.
 
-use Test::More tests => 162;
+use Test::More tests => 163;
 use FindBin;
 
 open( my $fh, "<", "$FindBin::Bin/../lib/Task/Cpanel/Core.pm" );

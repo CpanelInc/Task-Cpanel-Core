@@ -836,6 +836,14 @@ Build and install Perl modules
 
 use Module::Build;
 
+=item L<MySQL::Diff|MySQL::Diff>
+
+Generates a database upgrade instruction set
+
+=cut
+
+use MySQL::Diff;
+
 =item L<Net::AIM|Net::AIM>
 
 Perl extension for AOL Instant Messenger TOC protocol
