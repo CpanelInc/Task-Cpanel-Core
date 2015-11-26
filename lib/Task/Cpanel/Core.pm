@@ -1338,6 +1338,204 @@ create and use a local lib/ for perl modules with PERL5LIB
 
 use local::lib;
 
+=item L<|>
+
+
+
+=cut
+
+use Amazon::S3;
+
+=item L<Amazon::S3|Amazon::S3>
+
+A portable client library for working with and managing Amazon S3 buckets and keys.
+
+=cut
+
+use App::CmdDispatch;
+
+=item L<App::CmdDispatch|App::CmdDispatch>
+
+Handle command line processing for programs with subcommands.
+
+=cut
+
+use CSS::SpriteMaker;
+
+=item L<CSS::SpriteMaker|CSS::SpriteMaker>
+
+Combine several images into a single CSS sprite.
+
+=cut
+
+use Capture::Tiny;
+
+=item L<Capture::Tiny|Capture::Tiny>
+
+Capture STDOUT and STDERR from Perl, XS or external programs.
+
+=cut
+
+use Compress::Raw::Lzma;
+
+=item L<Compress::Raw::Lzma|Compress::Raw::Lzma>
+
+Low-Level Interface to lzma compression library.
+
+=cut
+
+use Email::MIME;
+
+=item L<Email::MIME|Email::MIME>
+
+easy MIME message handling
+
+=cut
+
+use File::ReadBackwards;
+
+=item L<File::ReadBackwards|File::ReadBackwards>
+
+Read a file backwards by lines.
+
+=cut
+
+use HTML::FormatText;
+
+=item L<HTML::FormatText|HTML::FormatText>
+
+Format HTML as plaintext
+
+=cut
+
+use HTTP::DAV;
+
+=item L<HTTP::DAV|HTTP::DAV>
+
+A WebDAV client library for Perl5
+
+=cut
+
+use IO::Callback;
+
+=item L<IO::Callback|IO::Callback>
+
+Emulate file interface for a code reference.
+
+=cut
+
+use IO::Compress::Gzip;
+
+=item L<IO::Compress::Gzip|IO::Compress::Gzip>
+
+Write RFC 1952 files/buffers
+
+=cut
+
+use IO::Stty;
+
+=item L<IO::Stty|IO::Stty>
+
+Change and print terminal line settings
+
+=cut
+
+use Image::Magick;
+
+=item L<Image::Magick|Image::Magick>
+
+objected-oriented Perl interface to ImageMagick. Use it to create, edit, compose, or convert bitmap images from within a Perl script. 
+
+=cut
+
+use Math::Round;
+
+=item L<Math::Round|Math::Round>
+
+Perl extension for rounding numbers
+
+=cut
+
+use Net::FastCGI;
+
+=item L<Net::FastCGI|Net::FastCGI>
+
+FastCGI Toolkit
+
+=cut
+
+use Net::SFTP::Foreign;
+
+=item L<Net::SFTP::Foreign|Net::SFTP::Foreign>
+
+SSH File Transfer Protocol client.
+
+=cut
+
+use OIDC::Lite;
+
+=item L<OIDC::Lite|OIDC::Lite>
+
+OpenID Connect Library
+
+=cut
+
+use PHP::Serialization;
+
+=item L<PHP::Serialization|PHP::Serialization>
+
+Simple flexible means of converting the output of PHP's serialize() into the equivalent Perl memory structure, and vice versa.
+
+=cut
+
+use Razor2::Client::Agent;
+
+=item L<Razor2::Client::Agent|Razor2::Client::Agent>
+
+used by Mail::SpamAssassin
+
+=cut
+
+use cPanel::PublicAPI;
+
+=item L<cPanel::PublicAPI|cPanel::PublicAPI>
+
+A perl interface for interacting with cPanel
+
+=cut
+
+use MIME::Base32;
+
+=item L<MIME::Base32|MIME::Base32>
+
+Encode data similar way like MIME::Base64 does.
+
+=cut
+
+use Data::Compare;
+
+=item L<Data::Compare|Data::Compare>
+
+Compare perl data structures
+
+=cut
+
+use HTTP::Tiny::UA::Response;
+
+=item L<HTTP::Tiny::UA::Response|HTTP::Tiny::UA::Response>
+
+Wrap HTTP::Tiny response as objects with accessors.
+
+=cut
+
+use Role::Multiton;
+
+=item L<Role::Multiton|Role::Multiton>
+
+Add a multiton constructor to your class
+
+=cut
+
 =back
 
 =head1 AUTHOR
