@@ -1536,6 +1536,46 @@ Add a multiton constructor to your class
 
 =cut
 
+use Umask::Local;
+
+=item L<Umask::Local|Umask::Local>
+
+Class for localizing the umask.
+
+=cut
+
+use cPanel::TaskQueue;
+
+=item L<cPanel::TaskQueue|cPanel::TaskQueue>
+
+FIFO queue of tasks to perform.
+
+=cut
+
+use Net::Whois::IANA;
+
+=item L<Net::Whois::IANA|Net::Whois::IANA>
+
+A universal WHOIS data extractor.
+
+=cut
+
+use Data::Rmap;
+
+=item L<Data::Rmap|Data::Rmap>
+
+recursive map, apply a block to a data structure
+
+=cut
+
+use Net::CIDR;
+
+=item L<Net::CIDR|Net::CIDR>
+
+Manipulate IPv4/IPv6 netblocks in CIDR notation
+
+=cut
+
 =back
 
 =head1 AUTHOR
