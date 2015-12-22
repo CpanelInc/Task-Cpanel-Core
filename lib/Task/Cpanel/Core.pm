@@ -1576,6 +1576,14 @@ Manipulate IPv4/IPv6 netblocks in CIDR notation
 
 =cut
 
+use Unix::Sysexits;
+
+=item L<Unix::Sysexits|Unix::Sysexits>
+
+Perl extension for sysexits.h
+
+=cut
+
 =back
 
 =head1 AUTHOR
